@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "YtPU4Gx6MncdBY9lJUMF7JXr2gatnEdrzN0kJRYVI7E=",
+  "Hash": "bjvA26D0S73sPdMdWULtZJ3I9iCrOhf9JpzcKobgQrw=",
   "Source": "AngularApp1.Server",
   "BasePath": "_content/AngularApp1.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\source\\repos\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
       "Version": 2,
       "Source": "angularapp1.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

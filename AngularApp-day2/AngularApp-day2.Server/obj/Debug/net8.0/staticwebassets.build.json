@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Nvz7m6H+5UlS+2dvG5EBkeI+m/SXFVngyr7tc1I+32w=",
+  "Source": "AngularApp-day2.Server",
+  "BasePath": "_content/AngularApp-day2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\angularapp-day2.client.esproj",
+      "Version": 2,
+      "Source": "angularapp-day2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
