@@ -1,78 +1,130 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\duhaurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\duhaurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\controllers\\usersubsecribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\controllers\\usersubsecribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\dto\\usersubsecribtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\dto\\usersubsecribtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaurl\\url.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\duhaurl\\url.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\controllers\\subsecribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\controllers\\subsecribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FD0950CD-D9DA-4223-9310-BDE20A3C9018}|angularapp-day2.client\\angularapp-day2.client.esproj|solutionrelative:angularapp-day2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\desktop\\angular-git\\angular-task\\angularapp-day2\\angularapp-day2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|c:\\users\\orange\\source\\repos\\angularapp-day2\\angularapp-day2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A8998A-B0D0-49BD-BCEF-E25545E0EF11}|AngularApp-day2.Server\\AngularApp-day2.Server.csproj|solutionrelative:angularapp-day2.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,15 +134,212 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sub-services.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T13:47:17.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "services-details.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.html",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.html",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-30T13:01:18.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "sub-services.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T13:03:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T12:47:31.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "services-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\services-details\\services-details.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-30T12:41:16.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T13:06:13.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T13:47:04.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sub-services.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.spec.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-30T13:02:20.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserSubsecribtionController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\UserSubsecribtionController.cs",
+              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Controllers\\UserSubsecribtionController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\UserSubsecribtionController.cs",
+              "RelativeToolTip": "AngularApp-day2.Server\\Controllers\\UserSubsecribtionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:28:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "subsecribtion.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.html",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.html",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-30T09:10:16.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserSubsecribtion.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\DTO\\UserSubsecribtion.cs",
+              "RelativeDocumentMoniker": "AngularApp-day2.Server\\DTO\\UserSubsecribtion.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\DTO\\UserSubsecribtion.cs",
+              "RelativeToolTip": "AngularApp-day2.Server\\DTO\\UserSubsecribtion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:33:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "url.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.spec.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-30T10:12:38.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "subsecribtion.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.spec.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\subsecribtion\\subsecribtion.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-30T09:03:06.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Models\\UserSubscription.cs",
+              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Models\\UserSubscription.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Models\\UserSubscription.cs",
+              "RelativeToolTip": "AngularApp-day2.Server\\Models\\UserSubscription.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:33:28.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Models\\Subscription.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Models\\Subscription.cs",
+              "RelativeToolTip": "AngularApp-day2.Server\\Models\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:41:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubsecribtionController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\SubsecribtionController.cs",
+              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Controllers\\SubsecribtionController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\SubsecribtionController.cs",
+              "RelativeToolTip": "AngularApp-day2.Server\\Controllers\\SubsecribtionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:50:30.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "navbar.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts",
               "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts",
               "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -98,132 +347,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SubServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
-              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
-              "RelativeToolTip": "AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:38:09.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "service.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T13:32:27.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "sub-services.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T13:47:17.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T12:47:31.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "url.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\duhaUrl\\url.service.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T13:06:13.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "sub-services.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\sub-services\\sub-services.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T13:03:46.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.ts",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\app.component.ts",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T09:31:15.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "app.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.spec.ts",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\app.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.spec.ts",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\app.component.spec.ts",
+              "DocumentIndex": 14,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "AngularApp-day2.Server\\Models\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T13:47:04.547Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:44:37.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "navbar.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html",
               "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html",
               "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\navbar\\navbar.component.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-29T12:43:19.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "service.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
-              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
-              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T13:03:30.575Z"
+              "DocumentIndex": 19,
+              "Title": "lecture.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-30T08:11:59.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
+              "Title": "lecture.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.html",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.html",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\lecture\\lecture.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-30T08:12:21.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.html",
               "RelativeToolTip": "angularapp-day2.client\\src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -231,11 +407,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
+              "Title": "service.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T13:32:27.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SubServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
+              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
+              "RelativeToolTip": "AngularApp-day2.Server\\Controllers\\SubServicesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:38:09.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T09:31:15.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "service.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
+              "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
+              "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T13:03:30.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "service.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts",
               "RelativeDocumentMoniker": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts",
               "RelativeToolTip": "angularapp-day2.client\\src\\app\\duha29\\service\\service.component.spec.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -243,11 +467,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\ServicesController.cs",
               "RelativeDocumentMoniker": "AngularApp-day2.Server\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Controllers\\ServicesController.cs",
               "RelativeToolTip": "AngularApp-day2.Server\\Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +479,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Program.cs",
               "RelativeDocumentMoniker": "AngularApp-day2.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\Program.cs",
               "RelativeToolTip": "AngularApp-day2.Server\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\index.html",
               "RelativeDocumentMoniker": "angularapp-day2.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\src\\index.html",
               "RelativeToolTip": "angularapp-day2.client\\src\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -279,27 +503,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\appsettings.json",
               "RelativeDocumentMoniker": "AngularApp-day2.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\AngularApp-day2.Server\\appsettings.json",
               "RelativeToolTip": "AngularApp-day2.Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-29T09:48:33.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Models\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "AngularApp-day2.Server\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\AngularApp-day2.Server\\Models\\MyDbContext.cs",
-              "RelativeToolTip": "AngularApp-day2.Server\\Models\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:44:37.077Z"
             }
           ]
         }

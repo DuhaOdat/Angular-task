@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "Nvz7m6H+5UlS+2dvG5EBkeI+m/SXFVngyr7tc1I+32w=",
+  "Hash": "EYnpynLQaFV+wuMMSu7UHQPEpL8eEAU9wTIQ+27iCVE=",
   "Source": "AngularApp-day2.Server",
   "BasePath": "_content/AngularApp-day2.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\source\\repos\\AngularApp-day2\\angularapp-day2.client\\angularapp-day2.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\Angular-git\\Angular-task\\AngularApp-day2\\angularapp-day2.client\\angularapp-day2.client.esproj",
       "Version": 2,
       "Source": "angularapp-day2.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

@@ -18,8 +18,8 @@ export class SubServicesComponent {
   constructor(private _ser: UrlService, private _route: ActivatedRoute) { }
   getsubServices(id: any) {
     this._ser.getsubServicesbyServiceId(id).subscribe((data) => {
+      debugger
       this.subServiceData = data
-      console.log("this.subServiceData", this.subServiceData)
     })
   }
 

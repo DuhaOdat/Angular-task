@@ -1,1 +1,2 @@
 C:\Users\Orange\source\repos\AngularApp-day2\angularapp-day2.client\obj\Debug\angularapp-day2.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular-git\Angular-task\AngularApp-day2\angularapp-day2.client\obj\Debug\angularapp-day2.client.esproj.CoreCompileInputs.cache

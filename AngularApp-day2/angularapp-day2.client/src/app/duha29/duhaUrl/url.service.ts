@@ -16,4 +16,18 @@ export class UrlService {
   getsubServicesbyServiceId(id: any): Observable<any> {
     return this.http.get<any>(`${this.staticData}/SubServices/GetSubServicesbyServiceID/${id}`);
   }
+
+  getSubsecribtionData(): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/Subsecribtion/GetSubsecribtion`);
+  }
+
+
+  addUserSubscription(data:any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/UserSubsecribtion`,data)
+  }
+
+
+  getServicesDetails(id: any): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/SubServices/GetSubServicesbyID/${id}`);
+  }
 }

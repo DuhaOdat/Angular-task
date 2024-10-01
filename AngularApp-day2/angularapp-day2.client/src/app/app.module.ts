@@ -9,22 +9,32 @@ import { HomeComponent } from './duha29/home/home.component';
 import { RouterModule } from '@angular/router';
 import { ServiceComponent } from './duha29/service/service.component';
 import { SubServicesComponent } from './duha29/sub-services/sub-services.component';
-
+import { LectureComponent } from './duha29/lecture/lecture.component';
+import { FormsModule, NgForm } from '@angular/forms';
+import { SubsecribtionComponent } from './duha29/subsecribtion/subsecribtion.component';
+import { ServicesDetailsComponent } from './duha29/services-details/services-details.component';
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     HomeComponent,
     ServiceComponent,
-    SubServicesComponent
+    SubServicesComponent,
+    LectureComponent,
+    SubsecribtionComponent,
+    ServicesDetailsComponent
   ],
   imports: [
+    FormsModule,
     BrowserModule, HttpClientModule,
     AppRoutingModule,
     RouterModule.forRoot([
       { path: "", component: HomeComponent, pathMatch: "full" },
       { path: "services", component: ServiceComponent },
-      { path: "SubServices/:id", component: SubServicesComponent  }
+      { path: "SubServices/:id", component: SubServicesComponent },
+      { path: "lecture", component: LectureComponent },
+      { path: "batool/:id", component: SubsecribtionComponent },
+      { path: "servicesDetails/:id", component:ServicesDetailsComponent }
       
     ])
   ],
