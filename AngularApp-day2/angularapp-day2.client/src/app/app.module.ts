@@ -13,6 +13,8 @@ import { LectureComponent } from './duha29/lecture/lecture.component';
 import { FormsModule, NgForm } from '@angular/forms';
 import { SubsecribtionComponent } from './duha29/subsecribtion/subsecribtion.component';
 import { ServicesDetailsComponent } from './duha29/services-details/services-details.component';
+import { RegistrationUserComponent } from './duha29/registration-user/registration-user.component';
+import { LoginComponent } from './duha29/login/login.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +24,9 @@ import { ServicesDetailsComponent } from './duha29/services-details/services-det
     SubServicesComponent,
     LectureComponent,
     SubsecribtionComponent,
-    ServicesDetailsComponent
+    ServicesDetailsComponent,
+    RegistrationUserComponent,
+    LoginComponent
   ],
   imports: [
     FormsModule,
@@ -34,7 +38,9 @@ import { ServicesDetailsComponent } from './duha29/services-details/services-det
       { path: "SubServices/:id", component: SubServicesComponent },
       { path: "lecture", component: LectureComponent },
       { path: "batool/:id", component: SubsecribtionComponent },
-      { path: "servicesDetails/:id", component:ServicesDetailsComponent }
+      { path: "servicesDetails/:id", component: ServicesDetailsComponent },
+      { path: "registration", component: RegistrationUserComponent },
+      { path: "Login", component: LoginComponent }
       
     ])
   ],

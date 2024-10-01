@@ -13,4 +13,10 @@ export class LectureComponent {
   onchange() {
     this.name="Ayah"
   }
+
+  color = "red";
+
+  display = true;
+
+  num11: number = 12;
 }

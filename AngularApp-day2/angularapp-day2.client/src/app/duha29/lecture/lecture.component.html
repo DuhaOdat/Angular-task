@@ -1,9 +1,25 @@
 <p>lecture works!</p>
 
+<p *ngIf="display == true">Hello Duha</p>
+<p *ngIf="num11 > 11"> the number is grater</p>
+
 <img [src]="urlImg" width="100" height="100" />
 <button (click)="onchange()">change</button>
 
 
+
+
 <input type="number" value="{{num}}" [(ngModel)]="num" />
+
+
+<div [ngSwitch]="color">
+
+
+  <p ngSwitchCase="'red'">color is red</p>
+  <p ngSwitchCase ="'red'">
+    color is pink</p>
+    <p *ngSwitchCase="'blue'">color is blue</p>
+</div>
+
 {{name}}
 {{num}}
